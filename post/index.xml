@@ -6,7 +6,16 @@
     <description>Recent content in Posts on CodeExecl - Excel技巧分享</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2020 15:35:20 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 19:20:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装正版office软件</title>
+      <link>http://localhost:1313/post/install/</link>
+      <pubDate>Tue, 27 Oct 2020 19:20:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/install/</guid>
+      <description>前言 office哪都好用，但缺点就是正版的office很贵（哦不，这不是office的缺点，是我的缺点）。但office在工作中又必不可少，</description>
+    </item>
+    
     <item>
       <title>第一篇文章</title>
       <link>http://localhost:1313/post/fisrt/</link>
